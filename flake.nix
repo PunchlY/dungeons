@@ -6,6 +6,10 @@
       url = "github:numtide/treefmt-nix";
       inputs.nixpkgs.follows = "nixpkgs";
     };
+    cache-nix-action = {
+      url = "github:nix-community/cache-nix-action";
+      flake = false;
+    };
   };
 
   outputs = inputs:
@@ -14,7 +18,11 @@
       imports = [
         inputs.treefmt-nix.flakeModule
       ];
-      perSystem = {pkgs, ...}: {
+      perSystem = {
+        self',
+        pkgs,
+        ...
+      }: {
         treefmt = {
           programs.deadnix = {
             enable = true;
@@ -28,9 +36,22 @@
           programs.deno.enable = true;
         };
 
+        packages.saveFromGC =
+          (import "${inputs.cache-nix-action}/saveFromGC.nix" {
+            inherit pkgs inputs;
+            inputsInclude = [
+              "nixpkgs"
+              "flake-parts"
+            ];
+            derivations = [
+              self'.devShells.default
+            ];
+          }).package;
+
         devShells.default = pkgs.mkShell {
           packages = with pkgs; [
             bun
+            just
           ];
         };
       };

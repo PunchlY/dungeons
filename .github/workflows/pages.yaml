@@ -1,0 +1,81 @@
+name: Generate Pages
+
+on:
+  push:
+    branches:
+      - master
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+  actions: write
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  apps:
+    name: "Generate Pages"
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+      - uses: cachix/install-nix-action@v31
+
+      - name: Restore and save Nix store
+        uses: nix-community/cache-nix-action@v7
+        with:
+          primary-key: nix-${{ runner.os }}-${{ hashFiles('**/*.nix', '**/flake.lock') }}
+          restore-prefixes-first-match: nix-${{ runner.os }}-
+          gc-max-store-size-linux: 4G
+          purge: true
+          purge-prefixes: nix-${{ runner.os }}-
+          purge-created: 0
+          purge-last-accessed: P1DT12H
+          purge-primary-key: never
+
+      - name: Restore bun
+        uses: actions/cache@v6
+        with:
+          path: ~/.bun/install/cache
+          key: bun-${{ runner.os }}-${{ hashFiles('**/bun.lock') }}
+
+      - name: Restore .cache
+        uses: actions/cache@v6
+        with:
+          path: .cache
+          key: cache-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            cache-
+
+      - name: Setup Git configurations
+        run: |
+          git config --global credential.helper store
+          echo "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com" > ~/.git-credentials
+          git config --global user.name github-actions[bot]
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Save packages from gc
+        if: success()
+        run: nix profile add .#saveFromGC
+
+      - name: Build
+        run: |
+          nix develop . --command just build
+
+      - name: Publish
+        run: |
+          rm -rf dist/.git
+
+          git -C dist init
+
+          git -C dist add -A
+          git -C dist commit -m "update: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+
+          git -C dist branch -M gh-pages
+          git -C dist remote add origin "$(git remote get-url origin)"
+          git -C dist push --force origin HEAD:gh-pages
