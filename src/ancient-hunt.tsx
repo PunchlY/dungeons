@@ -7,7 +7,7 @@ import runeIcons from "../assets/rune-icons.json";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { Virtuoso } from "react-virtuoso";
 import { Tab, TabGroup, TabList, TabPanel, TabPanels } from "@headlessui/react";
-import { build } from "./rune";
+import { build, Runes } from "./rune";
 
 function Item({ name, rune }: {
   name?: string;
@@ -155,6 +155,8 @@ function useLocalStorage<T>(key: string, initialValue: () => T) {
 }
 
 export function Build() {
+  const data = useMemo(() => build().toArray(), []);
+
   const [items, setItems] = useLocalStorage(
     "MCD:Build:items",
     () => {
@@ -174,12 +176,73 @@ export function Build() {
     () => [],
   );
 
-  useEffect(() => {
-    localStorage.setItem(
-      "MCD:Build:requiredAncients",
-      JSON.stringify(requiredAncients),
-    );
-  }, [requiredAncients]);
+  const offerings = useMemo(
+    () =>
+      [
+        weaponData.MeleeWeapons,
+        weaponData.RangedWeapons,
+        armorData,
+        artifactData,
+      ]
+        .map((offerings) =>
+          offerings.filter(({ name }) => items.includes(name))
+        )
+        .map((offerings) =>
+          Map.groupBy(offerings, ({ runes }) => Runes.from(runes).toString())
+            .set("", [])
+        ),
+    [items],
+  );
+
+  const filterRequired = useMemo(
+    () => {
+      const required = Runes.ancients(requiredAncients);
+      return data
+        .map((row) => ({
+          ...row,
+          runes: Runes.from([
+            row.meleeWeapons,
+            row.rangedWeapons,
+            row.armor,
+            row.artifact,
+          ]),
+        }))
+        .filter((row) => row.runes.isSupersetOf(required))
+        .map(({ runes, ...row }) => ({
+          ...row,
+          ancients: runes.getAncients(),
+        }))
+        .sort((a, b) => b.ancients.length - a.ancients.length);
+    },
+    [data, requiredAncients],
+  );
+
+  const filterItem = useMemo(
+    () =>
+      filterRequired
+        .filter((row) =>
+          offerings[0]!.has(row.meleeWeapons) &&
+          offerings[1]!.has(row.rangedWeapons) &&
+          offerings[2]!.has(row.armor) &&
+          offerings[3]!.has(row.artifact)
+        )
+        .map((row) => ({
+          meleeWeapons: offerings[0]!
+            .get(row.meleeWeapons)!
+            .map(({ name }) => name),
+          rangedWeapons: offerings[1]!
+            .get(row.rangedWeapons)!
+            .map(({ name }) => name),
+          armor: offerings[2]!
+            .get(row.armor)!
+            .map(({ name }) => name),
+          artifact: offerings[3]!
+            .get(row.artifact)!
+            .map(({ name }) => name),
+          ancients: row.ancients,
+        })),
+    [filterRequired, offerings],
+  );
 
   const toggleItem = useCallback((name: string) => {
     const set = new Set(items);
@@ -200,22 +263,6 @@ export function Build() {
     }
     setRequiredAncients([...set]);
   }, [requiredAncients]);
-
-  const data = useMemo(
-    () => build(items, requiredAncients),
-    [items, requiredAncients],
-  );
-
-  const sortData = useMemo(
-    () =>
-      data
-        .sort((a, b) =>
-          a.ancients.length === b.ancients.length
-            ? b.usage - a.usage
-            : b.ancients.length - a.ancients.length
-        ),
-    [data],
-  );
 
   return (
     <div className="h-screen flex flex-col md:flex-row">
@@ -274,7 +321,7 @@ export function Build() {
       </div>
       <div className="@container flex-1">
         <Virtuoso
-          data={sortData}
+          data={filterItem}
           itemContent={(index, data) => {
             return (
               <div className="h-[20cqw] grid grid-cols-5">

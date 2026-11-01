@@ -85,94 +85,51 @@ export class Runes extends Map<string, number> {
   }
 }
 
-export const build = (() => {
-  type Build = {
-    meleeWeapons: string[];
-    rangedWeapons: string[];
-    armor: string[];
-    artifact: string[];
-    ancients: string[];
-    usage: number;
-  };
-
-  let prev: {
-    requiredAncients: string[];
-    useRunes: Set<string>[];
-    res: Build[];
-  } | undefined;
-
-  return function (offerings: string[], requiredAncients: string[]) {
-    const required = Runes.ancients(requiredAncients);
-    const offeringGroup = [
-      weaponData.MeleeWeapons,
-      weaponData.RangedWeapons,
-      armorData,
-      artifactData,
-    ]
-      .map((data) => data.filter(({ name }) => offerings.includes(name)))
-      .map((data) =>
-        Map.groupBy(data, ({ runes }) => runes.sort().join(""))
-          .entries()
-          .map(([runes, data]) =>
-            [Runes.from(runes), data.map(({ name }) => name)] as const
-          )
-      )
-      .map((value) => new Map(value).set(new Runes(), []));
-
-    const useRunes = offeringGroup.map((v) =>
-      new Set(v.keys().map((v) => v.toString()))
-    );
-
-    if (prev) {
-      if (
-        new Set(prev.requiredAncients).symmetricDifference(new Set(requiredAncients))
-            .size === 0 &&
-        useRunes.every((set, i) =>
-          prev!.useRunes[i]!.symmetricDifference(set).size === 0
+export function build() {
+  const offeringGroup = [
+    weaponData.MeleeWeapons,
+    weaponData.RangedWeapons,
+    armorData,
+    artifactData,
+  ]
+    .map((data) =>
+      Map.groupBy(data, ({ runes }) => runes.sort().join(""))
+        .entries()
+        .map(([runes, data]) =>
+          [Runes.from(runes), data.map(({ name }) => name)] as const
         )
-      ) {
-        return prev.res;
-      }
+    )
+    .map((value) => new Map(value).set(new Runes(), []));
+
+  const runes = new Runes();
+  const selected: Runes[] = [];
+  function* dfs(depth: number): Generator<{
+    meleeWeapons: string;
+    rangedWeapons: string;
+    armor: string;
+    artifact: string;
+  }> {
+    if (depth === offeringGroup.length) {
+      if (!runes.hasAncient()) return;
+      yield {
+        meleeWeapons: selected[0]!.toString(),
+        rangedWeapons: selected[1]!.toString(),
+        armor: selected[2]!.toString(),
+        artifact: selected[3]!.toString(),
+      };
+      return;
     }
 
-    const runes = new Runes();
-    const selected: Runes[] = [];
-    function* dfs(depth: number): Generator<Build> {
-      if (depth === offeringGroup.length) {
-        if (!runes.isSupersetOf(required)) return;
-        const ancients = runes.getAncients();
-        if (!ancients.length) return;
-        yield {
-          meleeWeapons: offeringGroup[0]!.get(selected[0]!)!,
-          rangedWeapons: offeringGroup[1]!.get(selected[1]!)!,
-          armor: offeringGroup[2]!.get(selected[2]!)!,
-          artifact: offeringGroup[3]!.get(selected[3]!)!,
-          ancients,
-          usage: Runes.ancients(ancients).values().reduce((p, c) => p + c) /
-            runes.values().reduce((p, c) => p + c),
-        };
-        return;
-      }
+    for (const [offering] of offeringGroup[depth]!) {
+      runes.add(offering);
+      selected.push(offering);
 
-      for (const [offering] of offeringGroup[depth]!) {
-        runes.add(offering);
-        selected.push(offering);
+      yield* dfs(depth + 1);
 
-        yield* dfs(depth + 1);
-
-        selected.pop();
-        runes.subtract(offering);
-      }
+      selected.pop();
+      runes.subtract(offering);
     }
+  }
 
-    const res = dfs(0).toArray();
-
-    prev = {
-      requiredAncients: requiredAncients,
-      useRunes,
-      res,
-    };
-
-    return res;
-  };
-})();
+  return dfs(0);
+}
