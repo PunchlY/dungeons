@@ -1,0 +1,1129 @@
+[
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Battle_Robe.png",
+    "name": "Battle Robe",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Battle_Robe",
+    "runes": [
+      "I",
+      "A"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Battle Robe"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Splendid_Robe.png",
+    "name": "Splendid Robe",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Splendid_Robe",
+    "runes": [
+      "I",
+      "A",
+      "R"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Battle Robe",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Climbing_Gear.png",
+    "name": "Climbing Gear",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Climbing_Gear",
+    "runes": [
+      "T"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Climbing Gear",
+      "Howling Peaks",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Goat_Gear.png",
+    "name": "Goat Gear",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Goat_Gear",
+    "runes": [
+      "T",
+      "C"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Climbing Gear",
+      "Unique",
+      "Howling Peaks",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Rugged_Climbing_Gear.png",
+    "name": "Rugged Climbing Gear",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Rugged_Climbing_Gear",
+    "runes": [
+      "T"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Climbing Gear",
+      "Unique",
+      "Howling Peaks",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Emerald_Gear.png",
+    "name": "Emerald Gear",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Emerald_Gear",
+    "runes": [
+      "A"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Emerald Gear",
+      "Howling Peaks",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Gilded_Glory.png",
+    "name": "Gilded Glory",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Gilded_Glory",
+    "runes": [
+      "A",
+      "I"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Emerald Gear",
+      "Unique",
+      "Howling Peaks",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Opulent_Armor.png",
+    "name": "Opulent Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Opulent_Armor",
+    "runes": [
+      "A",
+      "T"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Emerald Gear",
+      "Unique",
+      "Howling Peaks",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Entertainer%27s_Garb.png",
+    "name": "Entertainer's Garb",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Entertainer%27s_Garb",
+    "runes": [
+      "S"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Entertainer's Garb",
+      "Echoing Void",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_The_Troubadour.png",
+    "name": "The Troubadour",
+    "wiki": "https://minecraft.wiki/w/Dungeons:The_Troubadour",
+    "runes": [
+      "S",
+      "T"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Entertainer's Garb",
+      "Unique",
+      "Echoing Void",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Evocation_Robe.png",
+    "name": "Evocation Robe",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Evocation_Robe",
+    "runes": [
+      "A",
+      "S"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Evocation Robe"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Ember_Robe.png",
+    "name": "Ember Robe",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Ember_Robe",
+    "runes": [
+      "A",
+      "I",
+      "S"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Evocation Robe",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Verdant_Robe.png",
+    "name": "Verdant Robe",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Verdant_Robe",
+    "runes": [
+      "A",
+      "O",
+      "S"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Evocation Robe",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Grim_Armor.png",
+    "name": "Grim Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Grim_Armor",
+    "runes": [
+      "O",
+      "S"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Grim Armor"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Wither_Armor.png",
+    "name": "Wither Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Wither_Armor",
+    "runes": [
+      "O",
+      "S",
+      "T"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Grim Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Guard%27s_Armor.png",
+    "name": "Guard's Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Guard%27s_Armor",
+    "runes": [
+      "R"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Guard's Armor"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Hunter%27s_Armor.png",
+    "name": "Hunter's Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Hunter%27s_Armor",
+    "runes": [
+      "R"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Hunter's Armor"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Archer%27s_Armor.png",
+    "name": "Archer's Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Archer%27s_Armor",
+    "runes": [
+      "R",
+      "C"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Hunter's Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Mercenary_Armor.png",
+    "name": "Mercenary Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Mercenary_Armor",
+    "runes": [
+      "S",
+      "T"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Mercenary Armor"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Renegade_Armor.png",
+    "name": "Renegade Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Renegade_Armor",
+    "runes": [
+      "S",
+      "T",
+      "C"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Mercenary Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Mystery_Armor.png",
+    "name": "Mystery Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Mystery_Armor",
+    "runes": [
+      "A",
+      "P"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Mystery Armor"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Ocelot_Armor.png",
+    "name": "Ocelot Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Ocelot_Armor",
+    "runes": [
+      "C"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Ocelot Armor",
+      "Jungle Awakens",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Shadow_Walker.png",
+    "name": "Shadow Walker",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Shadow_Walker",
+    "runes": [
+      "C",
+      "T"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Ocelot Armor",
+      "Unique",
+      "Jungle Awakens",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Piglin_Armor.png",
+    "name": "Piglin Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Piglin_Armor",
+    "runes": [
+      "A"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Piglin Armor",
+      "Flames of the Nether",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Golden_Piglin_Armor.png",
+    "name": "Golden Piglin Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Golden_Piglin_Armor",
+    "runes": [
+      "A",
+      "S"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Piglin Armor",
+      "Unique",
+      "Flames of the Nether",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Root_Rot_Armor.png",
+    "name": "Root Rot Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Root_Rot_Armor",
+    "runes": [
+      "S"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Root Rot Armor"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Black_Spot_Armor.png",
+    "name": "Black Spot Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Black_Spot_Armor",
+    "runes": [
+      "S"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Root Rot Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Reinforced_Mail.png",
+    "name": "Reinforced Mail",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Reinforced_Mail",
+    "runes": [
+      "T"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Reinforced Mail"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Stalwart_Armor.png",
+    "name": "Stalwart Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Stalwart_Armor",
+    "runes": [
+      "T",
+      "A"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Reinforced Mail",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Scale_Mail.png",
+    "name": "Scale Mail",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Scale_Mail",
+    "runes": [
+      "I",
+      "T"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Scale Mail"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Highland_Armor.png",
+    "name": "Highland Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Highland_Armor",
+    "runes": [
+      "I",
+      "C",
+      "T"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Scale Mail",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Shulker_Armor.png",
+    "name": "Shulker Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Shulker_Armor",
+    "runes": [
+      "T",
+      "I"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Shulker Armor",
+      "Echoing Void",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Sturdy_Shulker_Armor.png",
+    "name": "Sturdy Shulker Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Sturdy_Shulker_Armor",
+    "runes": [
+      "T",
+      "I",
+      "S"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Shulker Armor",
+      "Unique",
+      "Echoing Void",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Snow_Armor.png",
+    "name": "Snow Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Snow_Armor",
+    "runes": [
+      "T"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Snow Armor",
+      "Creeping Winter",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Frost_Armor.png",
+    "name": "Frost Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Frost_Armor",
+    "runes": [
+      "T",
+      "S"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Snow Armor",
+      "Unique",
+      "Creeping Winter",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Soul_Robe.png",
+    "name": "Soul Robe",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Soul_Robe",
+    "runes": [
+      "O"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Soul Robe"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Souldancer_Robe.png",
+    "name": "Souldancer Robe",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Souldancer_Robe",
+    "runes": [
+      "O",
+      "T"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Soul Robe",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Spelunker_Armor.png",
+    "name": "Spelunker Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Spelunker_Armor",
+    "runes": [
+      "U"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Spelunker Armor"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Cave_Crawler.png",
+    "name": "Cave Crawler",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Cave_Crawler",
+    "runes": [
+      "I",
+      "U"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Spelunker Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Sprout_Armor.png",
+    "name": "Sprout Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Sprout_Armor",
+    "runes": [
+      "C"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Sprout Armor",
+      "Flames of the Nether",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Living_Vines_Armor.png",
+    "name": "Living Vines Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Living_Vines_Armor",
+    "runes": [
+      "C"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Sprout Armor",
+      "Unique",
+      "Flames of the Nether",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Thief_Armor.png",
+    "name": "Thief Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Thief_Armor",
+    "runes": [
+      "I"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Thief Armor"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Spider_Armor.png",
+    "name": "Spider Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Spider_Armor",
+    "runes": [
+      "I",
+      "T"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Thief Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Teleportation_Robes.png",
+    "name": "Teleportation Robes",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Teleportation_Robes",
+    "runes": [
+      "A",
+      "O"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Teleportation Robes",
+      "Echoing Void",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Unstable_Robes.png",
+    "name": "Unstable Robes",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Unstable_Robes",
+    "runes": [
+      "A",
+      "C",
+      "O"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Teleportation Robes",
+      "Unique",
+      "Echoing Void",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Turtle_Armor.png",
+    "name": "Turtle Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Turtle_Armor",
+    "runes": [
+      "T"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Turtle Armor",
+      "Hidden Depths",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Nimble_Turtle_Armor.png",
+    "name": "Nimble Turtle Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Nimble_Turtle_Armor",
+    "runes": [
+      "T",
+      "C"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Turtle Armor",
+      "Unique",
+      "Hidden Depths",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Wolf_Armor.png",
+    "name": "Wolf Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Wolf_Armor",
+    "runes": [
+      "U",
+      "S"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Wolf Armor"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/Black_Wolf_Armor_(MCD).png",
+    "name": "Black Wolf Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Black_Wolf_Armor",
+    "runes": [
+      "U",
+      "S",
+      "C"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Wolf Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Fox_Armor.png",
+    "name": "Fox Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Fox_Armor",
+    "runes": [
+      "U",
+      "S",
+      "T"
+    ],
+    "tags": [
+      "Default",
+      "Adventure",
+      "Apocalypse",
+      "Wolf Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Phantom_Armor.png",
+    "name": "Phantom Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Phantom_Armor",
+    "runes": [
+      "R",
+      "O"
+    ],
+    "tags": [
+      "Adventure",
+      "Apocalypse",
+      "Phantom Armor"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Frost_Bite.png",
+    "name": "Frost Bite",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Frost_Bite",
+    "runes": [
+      "R",
+      "O",
+      "S"
+    ],
+    "tags": [
+      "Adventure",
+      "Apocalypse",
+      "Phantom Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Plate_Armor.png",
+    "name": "Plate Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Plate_Armor",
+    "runes": [
+      "I",
+      "T"
+    ],
+    "tags": [
+      "Adventure",
+      "Apocalypse",
+      "Plate Armor"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Full_Metal_Armor.png",
+    "name": "Full Metal Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Full_Metal_Armor",
+    "runes": [
+      "I",
+      "T"
+    ],
+    "tags": [
+      "Adventure",
+      "Apocalypse",
+      "Plate Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Squid_Armor.png",
+    "name": "Squid Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Squid_Armor",
+    "runes": [
+      "T"
+    ],
+    "tags": [
+      "Adventure",
+      "Apocalypse",
+      "Squid Armor",
+      "Hidden Depths",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Glow_Squid_Armor.png",
+    "name": "Glow Squid Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Glow_Squid_Armor",
+    "runes": [
+      "T",
+      "C"
+    ],
+    "tags": [
+      "Adventure",
+      "Apocalypse",
+      "Squid Armor",
+      "Unique",
+      "Hidden Depths",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Champion%27s_Armor.png",
+    "name": "Champion's Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Champion%27s_Armor",
+    "runes": [
+      "T"
+    ],
+    "tags": [
+      "Apocalypse",
+      "Champion's Armor"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Hero%27s_Armor.png",
+    "name": "Hero's Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Hero%27s_Armor",
+    "runes": [
+      "S",
+      "T"
+    ],
+    "tags": [
+      "Apocalypse",
+      "Champion's Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Dark_Armor.png",
+    "name": "Dark Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Dark_Armor",
+    "runes": [
+      "O",
+      "T"
+    ],
+    "tags": [
+      "Apocalypse",
+      "Dark Armor"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Titan%27s_Shroud.png",
+    "name": "Titan's Shroud",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Titan%27s_Shroud",
+    "runes": [
+      "O",
+      "T",
+      "S"
+    ],
+    "tags": [
+      "Apocalypse",
+      "Dark Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Ghostly_Armor.png",
+    "name": "Ghostly Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Ghostly_Armor",
+    "runes": [
+      "C",
+      "P"
+    ],
+    "tags": [
+      "Daily Trial",
+      "Tower",
+      "Ghostly Armor"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Ghost_Kindler.png",
+    "name": "Ghost Kindler",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Ghost_Kindler",
+    "runes": [
+      "C",
+      "P",
+      "I"
+    ],
+    "tags": [
+      "Daily Trial",
+      "Tower",
+      "Ghostly Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Beenest_Armor.png",
+    "name": "Beenest Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Beenest_Armor",
+    "runes": [
+      "U",
+      "P"
+    ],
+    "tags": [
+      "Daily Trial",
+      "Tower",
+      "Beenest Armor"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Beehive_Armor.png",
+    "name": "Beehive Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Beehive_Armor",
+    "runes": [
+      "U",
+      "P",
+      "I"
+    ],
+    "tags": [
+      "Daily Trial",
+      "Tower",
+      "Beenest Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Hungry_Horror.png",
+    "name": "Hungry Horror",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Hungry_Horror",
+    "runes": [
+      "S",
+      "T",
+      "C"
+    ],
+    "tags": [
+      "Tower",
+      "Seasonal Event",
+      "Mercenary Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Arctic_Fox_Armor.png",
+    "name": "Arctic Fox Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Arctic_Fox_Armor",
+    "runes": [
+      "U",
+      "S",
+      "T"
+    ],
+    "tags": [
+      "Tower",
+      "Seasonal Event",
+      "Wolf Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Sweet_Tooth.png",
+    "name": "Sweet Tooth",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Sweet_Tooth",
+    "runes": [
+      "I",
+      "U"
+    ],
+    "tags": [
+      "Tower",
+      "Seasonal Event",
+      "Spelunker Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Cauldron_Armor.png",
+    "name": "Cauldron Armor",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Cauldron_Armor",
+    "runes": [
+      "I",
+      "T"
+    ],
+    "tags": [
+      "Tower",
+      "Seasonal Event",
+      "Plate Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Gourdian_Armor.png",
+    "name": "The Spooky Gourdian",
+    "wiki": "https://minecraft.wiki/w/Dungeons:The_Spooky_Gourdian",
+    "runes": [
+      "O",
+      "S",
+      "T"
+    ],
+    "tags": [
+      "Tower",
+      "Seasonal Event",
+      "Grim Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Cloaked_Skull.png",
+    "name": "Cloaked Skull",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Cloaked_Skull",
+    "runes": [
+      "I",
+      "C",
+      "P"
+    ],
+    "tags": [
+      "Tower",
+      "Seasonal Event",
+      "Ghostly Armor",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Hungriest_Horror.png",
+    "name": "Hungriest Horror",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Hungriest_Horror",
+    "runes": [
+      "C",
+      "S",
+      "T"
+    ],
+    "tags": [
+      "Tower",
+      "Seasonal Event",
+      "Mercenary Armor",
+      "Unique"
+    ]
+  }
+]

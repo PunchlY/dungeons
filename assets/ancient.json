@@ -1,0 +1,530 @@
+[
+  {
+    "name": "?????",
+    "wiki": "https://minecraft.wiki/w/Dungeons:%3F%3F%3F%3F%3F",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_%3F%3F%3F%3F%3F-ancient-dungeon.png",
+    "runes": [
+      "C",
+      "I",
+      "P",
+      "A"
+    ],
+    "drops": [
+      "Dual Crossbows",
+      "Baby Crossbows",
+      "Spellbound Crossbows",
+      "Gauntlets",
+      "Fighter's Bindings",
+      "Maulers",
+      "Soul Fists",
+      "Ghostly Armor",
+      "Ghost Kindler",
+      "Katana",
+      "Dark Katana",
+      "Master's Katana"
+    ]
+  },
+  {
+    "name": "Abominable Weaver",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Abominable_Weaver",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_abominable-weaver-ancient-dungeon.png",
+    "runes": [
+      "S",
+      "T",
+      "A"
+    ],
+    "drops": [
+      "Battle Robe",
+      "Splendid Robe",
+      "Double Axe",
+      "Cursed Axe",
+      "Whirlwind",
+      "Trickbow",
+      "The Green Menace",
+      "The Pink Scoundrel",
+      "Wolf Armor",
+      "Black Wolf Armor",
+      "Fox Armor"
+    ]
+  },
+  {
+    "name": "Abyssal Eye",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Abyssal_Eye",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_abyssal-eye-ancient-dungeon.png",
+    "runes": [
+      "C",
+      "T",
+      "I"
+    ],
+    "drops": [
+      "Coral Blade",
+      "Sponge Striker",
+      "Squid Armor",
+      "Glow Squid Armor",
+      "Harpoon Crossbow",
+      "Nautical Crossbow"
+    ]
+  },
+  {
+    "name": "Ancient Terror",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Ancient_Terror",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_ancient-terror-ancient-dungeon.png",
+    "runes": [
+      "U",
+      "O",
+      "S",
+      "A"
+    ],
+    "drops": [
+      "Champion's Armor",
+      "Hero's Armor",
+      "Exploding Crossbow",
+      "Firebolt Thrower",
+      "Imploding Crossbow",
+      "Mystery Armor"
+    ]
+  },
+  {
+    "name": "Barrage",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Barrage",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_barrage-ancient-dungeon.png",
+    "runes": [
+      "O",
+      "R",
+      "R"
+    ],
+    "drops": [
+      "Bow",
+      "Bonebow",
+      "Twin Bow",
+      "Hunter's Armor",
+      "Archer's Armor",
+      "Soul Bow",
+      "Bow of Lost Souls",
+      "Nocturnal Bow"
+    ]
+  },
+  {
+    "name": "Cursed Presence",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Cursed_Presence",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_cursed-presence-ancient-dungeon.png",
+    "runes": [
+      "C",
+      "O",
+      "I"
+    ],
+    "drops": [
+      "Cutlass",
+      "Dancer's Sword",
+      "Nameless Blade",
+      "Phantom Armor",
+      "Frost Bite",
+      "Soul Crossbow",
+      "Feral Soul Crossbow",
+      "Voidcaller"
+    ]
+  },
+  {
+    "name": "First Enchanter",
+    "wiki": "https://minecraft.wiki/w/Dungeons:First_Enchanter",
+    "icon": "https://minecraft.wiki/images/thumb/DungeonsMiscellaneousSprite_first-enchanter-ancient-dungeon.png/16px-DungeonsMiscellaneousSprite_first-enchanter-ancient-dungeon.png",
+    "runes": [
+      "O",
+      "S",
+      "S"
+    ],
+    "drops": [
+      "Claymore",
+      "Broadsword",
+      "Great Axeblade",
+      "Heartstealer",
+      "Scale Mail",
+      "Highland Armor",
+      "Soul Scythe",
+      "Frost Scythe",
+      "Jailor's Scythe"
+    ]
+  },
+  {
+    "name": "Frostwarden",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Frostwarden",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_frostwarden-ancient-dungeon.png",
+    "runes": [
+      "U",
+      "S",
+      "R"
+    ],
+    "drops": [
+      "Snow Armor",
+      "Frost Armor",
+      "Snow Bow",
+      "Winter's Touch"
+    ]
+  },
+  {
+    "name": "Grim Guardian",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Grim_Guardian",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_grim-guardian-ancient-dungeon.png",
+    "runes": [
+      "I",
+      "I",
+      "A"
+    ],
+    "drops": [
+      "Dark Armor",
+      "Titan's Shroud",
+      "Grim Armor",
+      "Wither Armor",
+      "Sword",
+      "Diamond Sword",
+      "Hawkbrand"
+    ]
+  },
+  {
+    "name": "Haunted Caller",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Haunted_Caller",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_haunted-caller-ancient-dungeon.png",
+    "runes": [
+      "R",
+      "R",
+      "A"
+    ],
+    "drops": [
+      "Longbow",
+      "Red Snake",
+      "Guardian Bow",
+      "Rapid Crossbow",
+      "Auto Crossbow",
+      "Butterfly Crossbow",
+      "Sickles",
+      "The Last Laugh",
+      "Nightmare's Bite",
+      "Spelunker Armor",
+      "Cave Crawler"
+    ]
+  },
+  {
+    "name": "Oozing Menace",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Oozing_Menace",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_oozing-menace-ancient-dungeon.png",
+    "runes": [
+      "U",
+      "C",
+      "R"
+    ],
+    "drops": [
+      "Battlestaff",
+      "Battlestaff of Terror",
+      "Growing Staff",
+      "Shortbow",
+      "Love Spell Bow",
+      "Mechanical Shortbow",
+      "Purple Storm",
+      "Mercenary Armor",
+      "Renegade Armor"
+    ]
+  },
+  {
+    "name": "Pestilent Conjurer",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Pestilent_Conjurer",
+    "icon": "https://minecraft.wiki/images/thumb/DungeonsMiscellaneousSprite_pestilent-conjurer-ancient-dungeon.png/16px-DungeonsMiscellaneousSprite_pestilent-conjurer-ancient-dungeon.png",
+    "runes": [
+      "C",
+      "R",
+      "I"
+    ],
+    "drops": [
+      "Glaive",
+      "Grave Bane",
+      "Venom Glaive",
+      "Heavy Crossbow",
+      "Doom Crossbow",
+      "Slayer Crossbow",
+      "Scatter Crossbow",
+      "Harp Crossbow",
+      "Lightning Harp Crossbow",
+      "Spear",
+      "Fortune Spear",
+      "Whispering Spear"
+    ]
+  },
+  {
+    "name": "Scuttling Torment",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Scuttling_Torment",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_scuttling-torment-ancient-dungeon.png",
+    "runes": [
+      "A",
+      "A",
+      "I",
+      "C"
+    ],
+    "drops": [
+      "Obsidian Claymore",
+      "The Starless Night",
+      "Teleportation Robes",
+      "Unstable Robes",
+      "Void Bow",
+      "Call of the Void"
+    ]
+  },
+  {
+    "name": "Solemn Giant",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Solemn_Giant",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_solemn-giant-ancient-dungeon.png",
+    "runes": [
+      "S",
+      "R",
+      "P",
+      "T"
+    ],
+    "drops": [
+      "Burst Crossbow",
+      "Corrupted Crossbow",
+      "Soul Hunter Crossbow",
+      "Guard's Armor",
+      "Rapier",
+      "Bee Stinger",
+      "Freezing Foil"
+    ]
+  },
+  {
+    "name": "The Seeking Flame",
+    "wiki": "https://minecraft.wiki/w/Dungeons:The_Seeking_Flame",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_the-seeking-flame-ancient-dungeon.png",
+    "runes": [
+      "O",
+      "O"
+    ],
+    "drops": [
+      "Axe",
+      "Firebrand",
+      "Highland Axe",
+      "Evocation Robe",
+      "Ember Robe",
+      "Verdant Robe",
+      "Soul Knife",
+      "Eternal Knife",
+      "Truthseeker"
+    ]
+  },
+  {
+    "name": "The Swarm",
+    "wiki": "https://minecraft.wiki/w/Dungeons:The_Swarm",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_the-swarm-ancient-dungeon.png",
+    "runes": [
+      "C",
+      "C",
+      "R",
+      "S"
+    ],
+    "drops": [
+      "Backstabber",
+      "Swift Striker",
+      "Shulker Armor",
+      "Sturdy Shulker Armor",
+      "Shadow Crossbow",
+      "Veiled Crossbow"
+    ]
+  },
+  {
+    "name": "The Tiny Scourge",
+    "wiki": "https://minecraft.wiki/w/Dungeons:The_Tiny_Scourge",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_the-tiny-scourge-ancient-dungeon.png",
+    "runes": [
+      "C",
+      "C",
+      "O",
+      "T"
+    ],
+    "drops": [
+      "Daggers",
+      "Fangs of Frost",
+      "Moon Daggers",
+      "Sheer Daggers",
+      "Soul Robe",
+      "Souldancer Robe",
+      "Thief Armor",
+      "Spider Armor"
+    ]
+  },
+  {
+    "name": "The Tower (Ancient)",
+    "wiki": "https://minecraft.wiki/w/Dungeons:The_Tower_(Ancient)",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_the-tower-ancient-dungeon.png",
+    "runes": [
+      "U",
+      "U",
+      "O",
+      "P"
+    ],
+    "drops": [
+      "Beenest Armor",
+      "Beehive Armor",
+      "Hunting Bow",
+      "Ancient Bow",
+      "Hunter's Promise",
+      "Master's Bow",
+      "Pickaxe",
+      "Diamond Pickaxe"
+    ]
+  },
+  {
+    "name": "The Unending",
+    "wiki": "https://minecraft.wiki/w/Dungeons:The_Unending",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_the-unending-ancient-dungeon.png",
+    "runes": [
+      "U",
+      "U",
+      "T"
+    ],
+    "drops": [
+      "Boneclub",
+      "Bone Cudgel",
+      "Piglin Armor",
+      "Golden Piglin Armor",
+      "Twisting Vine Bow",
+      "Weeping Vine Bow"
+    ]
+  },
+  {
+    "name": "Thundering Growth",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Thundering_Growth",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_thundering-growth-ancient-dungeon.png",
+    "runes": [
+      "U",
+      "C",
+      "C"
+    ],
+    "drops": [
+      "Ocelot Armor",
+      "Shadow Walker",
+      "Root Rot Armor",
+      "Black Spot Armor",
+      "Whip",
+      "Vine Whip"
+    ]
+  },
+  {
+    "name": "Unbreakable One",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Unbreakable_One",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_unbreakable-one-ancient-dungeon.png",
+    "runes": [
+      "I",
+      "T",
+      "T"
+    ],
+    "drops": [
+      "Claymore",
+      "Broadsword",
+      "Great Axeblade",
+      "Heartstealer",
+      "Great Hammer",
+      "Hammer of Gravity",
+      "Stormlander",
+      "Power Bow",
+      "Elite Power Bow",
+      "Sabrewing",
+      "Plate Armor",
+      "Full Metal Armor"
+    ]
+  },
+  {
+    "name": "Unstoppable Tusk",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Unstoppable_Tusk",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_unstoppable-tusk-ancient-dungeon.png",
+    "runes": [
+      "R",
+      "I",
+      "A"
+    ],
+    "drops": [
+      "Broken Sawblade",
+      "Mechanized Sawblade",
+      "Cog Crossbow",
+      "Pride of the Piglins",
+      "Sprout Armor",
+      "Living Vines Armor"
+    ]
+  },
+  {
+    "name": "Vengeful Mariner",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Vengeful_Mariner",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_vengeful-mariner-ancient-dungeon.png",
+    "runes": [
+      "S",
+      "S",
+      "T"
+    ],
+    "drops": [
+      "Anchor",
+      "Encrusted Anchor",
+      "Bubble Bow",
+      "Bubble Burster",
+      "Turtle Armor",
+      "Nimble Turtle Armor"
+    ]
+  },
+  {
+    "name": "Vigilant Scoundrel",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Vigilant_Scoundrel",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_vigilant-scoundrel-ancient-dungeon.png",
+    "runes": [
+      "R",
+      "I",
+      "I",
+      "T"
+    ],
+    "drops": [
+      "Crossbow",
+      "Azure Seeker",
+      "The Slicer",
+      "Mace",
+      "Flail",
+      "Sun's Grace",
+      "Reinforced Mail",
+      "Stalwart Armor"
+    ]
+  },
+  {
+    "name": "Watcher of the End",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Watcher_of_the_End",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_watcher-of-the-end-ancient-dungeon.png",
+    "runes": [
+      "T",
+      "A",
+      "C"
+    ],
+    "drops": [
+      "Entertainer's Garb",
+      "The Troubadour",
+      "Shadow Crossbow",
+      "Veiled Crossbow",
+      "Void Touched Blades",
+      "The Beginning and The End"
+    ]
+  },
+  {
+    "name": "Windbeard",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Windbeard",
+    "icon": "https://minecraft.wiki/images/DungeonsMiscellaneousSprite_windbeard-ancient-dungeon.png",
+    "runes": [
+      "U",
+      "A",
+      "A"
+    ],
+    "drops": [
+      "Climbing Gear",
+      "Goat Gear",
+      "Rugged Climbing Gear",
+      "Emerald Gear",
+      "Gilded Glory",
+      "Opulent Armor",
+      "Tempest Knife",
+      "Chill Gale Knife",
+      "Resolute Tempest Knife",
+      "Wind Bow",
+      "Burst Gale Bow",
+      "Echo of the Valley"
+    ]
+  }
+]

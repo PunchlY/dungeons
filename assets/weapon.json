@@ -1,0 +1,2439 @@
+{
+  "MeleeWeapons": [
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Anchor.png",
+      "name": "Anchor",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Anchor",
+      "runes": [
+        "T"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Anchor",
+        "Hidden Depths",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Encrusted_Anchor.png",
+      "name": "Encrusted Anchor",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Encrusted_Anchor",
+      "runes": [
+        "T",
+        "S"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Anchor",
+        "Unique",
+        "Hidden Depths",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Axe.png",
+      "name": "Axe",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Axe",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Axe"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Firebrand.png",
+      "name": "Firebrand",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Firebrand",
+      "runes": [
+        "I",
+        "A"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Axe",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Highland_Axe.png",
+      "name": "Highland Axe",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Highland_Axe",
+      "runes": [
+        "I",
+        "A"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Axe",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Backstabber.png",
+      "name": "Backstabber",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Backstabber",
+      "runes": [
+        "C"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Backstabber",
+        "Echoing Void",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Swift_Striker.png",
+      "name": "Swift Striker",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Swift_Striker",
+      "runes": [
+        "C",
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Backstabber",
+        "Unique",
+        "Echoing Void",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Battlestaff.png",
+      "name": "Battlestaff",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Battlestaff",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Battlestaff"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Battlestaff_of_Terror.png",
+      "name": "Battlestaff of Terror",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Battlestaff_of_Terror",
+      "runes": [
+        "A",
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Battlestaff",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Growing_Staff.png",
+      "name": "Growing Staff",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Growing_Staff",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Battlestaff",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Boneclub.png",
+      "name": "Boneclub",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Boneclub",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Boneclub",
+        "Flames of the Nether",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Bone_Cudgel.png",
+      "name": "Bone Cudgel",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Bone_Cudgel",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Boneclub",
+        "Unique",
+        "Flames of the Nether",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Broken_Sawblade.png",
+      "name": "Broken Sawblade",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Broken_Sawblade",
+      "runes": [
+        "T"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Sawblade",
+        "Flames of the Nether",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Mechanized_Sawblade.png",
+      "name": "Mechanized Sawblade",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Mechanized_Sawblade",
+      "runes": [
+        "C",
+        "T"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Sawblade",
+        "Unique",
+        "Flames of the Nether",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Claymore.png",
+      "name": "Claymore",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Claymore",
+      "runes": [
+        "T"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Claymore"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Broadsword.png",
+      "name": "Broadsword",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Broadsword",
+      "runes": [
+        "T",
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Claymore",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Great_Axeblade.png",
+      "name": "Great Axeblade",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Great_Axeblade",
+      "runes": [
+        "T",
+        "C"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Claymore",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Heartstealer.png",
+      "name": "Heartstealer",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Heartstealer",
+      "runes": [
+        "I",
+        "T"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Claymore",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Coral_Blade.png",
+      "name": "Coral Blade",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Coral_Blade",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Coral Blade",
+        "Hidden Depths",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Sponge_Striker.png",
+      "name": "Sponge Striker",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Sponge_Striker",
+      "runes": [
+        "I",
+        "A"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Coral Blade",
+        "Unique",
+        "Hidden Depths",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Cutlass.png",
+      "name": "Cutlass",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Cutlass",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Cutlass"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Dancer%27s_Sword.png",
+      "name": "Dancer's Sword",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Dancer%27s_Sword",
+      "runes": [
+        "I",
+        "C"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Cutlass",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Nameless_Blade.png",
+      "name": "Nameless Blade",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Nameless_Blade",
+      "runes": [
+        "I",
+        "S"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Cutlass",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Daggers.png",
+      "name": "Daggers",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Daggers",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Daggers"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Fangs_of_Frost.png",
+      "name": "Fangs of Frost",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Fangs_of_Frost",
+      "runes": [
+        "S",
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Daggers",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Moon_Daggers.png",
+      "name": "Moon Daggers",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Moon_Daggers",
+      "runes": [
+        "I",
+        "O"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Daggers",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Sheer_Daggers.png",
+      "name": "Sheer Daggers",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Sheer_Daggers",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Daggers",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Glaive.png",
+      "name": "Glaive",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Glaive",
+      "runes": [
+        "S"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Glaive"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Grave_Bane.png",
+      "name": "Grave Bane",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Grave_Bane",
+      "runes": [
+        "S",
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Glaive",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Venom_Glaive.png",
+      "name": "Venom Glaive",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Venom_Glaive",
+      "runes": [
+        "S",
+        "A"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Glaive",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Great_Hammer.png",
+      "name": "Great Hammer",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Great_Hammer",
+      "runes": [
+        "T"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Great Hammer"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Hammer_of_Gravity.png",
+      "name": "Hammer of Gravity",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Hammer_of_Gravity",
+      "runes": [
+        "T",
+        "A"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Great Hammer",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Stormlander.png",
+      "name": "Stormlander",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Stormlander",
+      "runes": [
+        "T",
+        "A"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Great Hammer",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Mace.png",
+      "name": "Mace",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Mace",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Mace"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Flail.png",
+      "name": "Flail",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Flail",
+      "runes": [
+        "A",
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Mace",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Sun%27s_Grace.png",
+      "name": "Sun's Grace",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Sun%27s_Grace",
+      "runes": [
+        "I",
+        "S"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Mace",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Obsidian_Claymore.png",
+      "name": "Obsidian Claymore",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Obsidian_Claymore",
+      "runes": [
+        "T"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Claymore",
+        "Echoing Void",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_The_Starless_Night.png",
+      "name": "The Starless Night",
+      "wiki": "https://minecraft.wiki/w/Dungeons:The_Starless_Night",
+      "runes": [
+        "T",
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Claymore",
+        "Unique",
+        "Echoing Void",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Pickaxe.png",
+      "name": "Pickaxe",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Pickaxe",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Pickaxe"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Diamond_Pickaxe.png",
+      "name": "Diamond Pickaxe",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Diamond_Pickaxe",
+      "runes": [
+        "I",
+        "A"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Pickaxe",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Sickles.png",
+      "name": "Sickles",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Sickles",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Sickles"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Nightmare%27s_Bite.png",
+      "name": "Nightmare's Bite",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Nightmare%27s_Bite",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Sickles",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_The_Last_Laugh.png",
+      "name": "The Last Laugh",
+      "wiki": "https://minecraft.wiki/w/Dungeons:The_Last_Laugh",
+      "runes": [
+        "A",
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Sickles",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Soul_Knife.png",
+      "name": "Soul Knife",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Soul_Knife",
+      "runes": [
+        "O"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Soul Knife"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Eternal_Knife.png",
+      "name": "Eternal Knife",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Eternal_Knife",
+      "runes": [
+        "O"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Soul Knife",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Truthseeker.png",
+      "name": "Truthseeker",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Truthseeker",
+      "runes": [
+        "I",
+        "O"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Soul Knife",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Sword.png",
+      "name": "Sword",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Sword",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Sword"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Diamond_Sword.png",
+      "name": "Diamond Sword",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Diamond_Sword",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Sword",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Hawkbrand.png",
+      "name": "Hawkbrand",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Hawkbrand",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Sword",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Tempest_Knife.png",
+      "name": "Tempest Knife",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Tempest_Knife",
+      "runes": [
+        "C"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Tempest Knife",
+        "Howling Peaks",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Chill_Gale_Knife.png",
+      "name": "Chill Gale Knife",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Chill_Gale_Knife",
+      "runes": [
+        "S",
+        "C"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Tempest Knife",
+        "Unique",
+        "Howling Peaks",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Resolute_Tempest_Knife.png",
+      "name": "Resolute Tempest Knife",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Resolute_Tempest_Knife",
+      "runes": [
+        "I",
+        "C"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Tempest Knife",
+        "Unique",
+        "Howling Peaks",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Void_Touched_Blades.png",
+      "name": "Void Touched Blades",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Void_Touched_Blades",
+      "runes": [
+        "S"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Void Touched Blades",
+        "Echoing Void",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_The_Beginning_and_The_End.png",
+      "name": "The Beginning and The End",
+      "wiki": "https://minecraft.wiki/w/Dungeons:The_Beginning_and_The_End",
+      "runes": [
+        "A",
+        "S"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Void Touched Blades",
+        "Unique",
+        "Echoing Void",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Whip.png",
+      "name": "Whip",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Whip",
+      "runes": [
+        "S"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Whip",
+        "Jungle Awakens",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Vine_Whip.png",
+      "name": "Vine Whip",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Vine_Whip",
+      "runes": [
+        "S",
+        "I"
+      ],
+      "tags": [
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Whip",
+        "Unique",
+        "Jungle Awakens",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Gauntlets.png",
+      "name": "Gauntlets",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Gauntlets",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Adventure",
+        "Apocalypse",
+        "Gauntlets"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Fighter%27s_Bindings.png",
+      "name": "Fighter's Bindings",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Fighter%27s_Bindings",
+      "runes": [
+        "C",
+        "I"
+      ],
+      "tags": [
+        "Adventure",
+        "Apocalypse",
+        "Gauntlets",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Maulers.png",
+      "name": "Maulers",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Maulers",
+      "runes": [
+        "C",
+        "I"
+      ],
+      "tags": [
+        "Adventure",
+        "Apocalypse",
+        "Gauntlets",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Soul_Fists.png",
+      "name": "Soul Fists",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Soul_Fists",
+      "runes": [
+        "I",
+        "O"
+      ],
+      "tags": [
+        "Adventure",
+        "Apocalypse",
+        "Gauntlets",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Soul_Scythe.png",
+      "name": "Soul Scythe",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Soul_Scythe",
+      "runes": [
+        "O"
+      ],
+      "tags": [
+        "Adventure",
+        "Apocalypse",
+        "Scythe"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Frost_Scythe.png",
+      "name": "Frost Scythe",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Frost_Scythe",
+      "runes": [
+        "S",
+        "O"
+      ],
+      "tags": [
+        "Adventure",
+        "Apocalypse",
+        "Scythe",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Jailor%27s_Scythe.png",
+      "name": "Jailor's Scythe",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Jailor%27s_Scythe",
+      "runes": [
+        "A",
+        "O"
+      ],
+      "tags": [
+        "Adventure",
+        "Apocalypse",
+        "Scythe",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Katana.png",
+      "name": "Katana",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Katana",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Adventure",
+        "Apocalypse",
+        "Katana"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Dark_Katana.png",
+      "name": "Dark Katana",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Dark_Katana",
+      "runes": [
+        "I",
+        "A"
+      ],
+      "tags": [
+        "Adventure",
+        "Apocalypse",
+        "Katana",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Master%27s_Katana.png",
+      "name": "Master's Katana",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Master%27s_Katana",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Adventure",
+        "Apocalypse",
+        "Katana",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Double_Axe.png",
+      "name": "Double Axe",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Double_Axe",
+      "runes": [
+        "I",
+        "T"
+      ],
+      "tags": [
+        "Apocalypse",
+        "Double Axe"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Cursed_Axe.png",
+      "name": "Cursed Axe",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Cursed_Axe",
+      "runes": [
+        "I",
+        "A",
+        "T"
+      ],
+      "tags": [
+        "Apocalypse",
+        "Double Axe",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Whirlwind.png",
+      "name": "Whirlwind",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Whirlwind",
+      "runes": [
+        "I",
+        "A",
+        "T"
+      ],
+      "tags": [
+        "Apocalypse",
+        "Double Axe",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Spear.png",
+      "name": "Spear",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Spear",
+      "runes": [
+        "S"
+      ],
+      "tags": [
+        "Apocalypse",
+        "Spear"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Fortune_Spear.png",
+      "name": "Fortune Spear",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Fortune_Spear",
+      "runes": [
+        "S"
+      ],
+      "tags": [
+        "Apocalypse",
+        "Spear",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Whispering_Spear.png",
+      "name": "Whispering Spear",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Whispering_Spear",
+      "runes": [
+        "I",
+        "S"
+      ],
+      "tags": [
+        "Apocalypse",
+        "Spear",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Rapier.png",
+      "name": "Rapier",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Rapier",
+      "runes": [
+        "I",
+        "P"
+      ],
+      "tags": [
+        "Daily Trial",
+        "Tower",
+        "Rapier"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Bee_Stinger.png",
+      "name": "Bee Stinger",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Bee_Stinger",
+      "runes": [
+        "I",
+        "P",
+        "U"
+      ],
+      "tags": [
+        "Daily Trial",
+        "Tower",
+        "Rapier",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Freezing_Foil.png",
+      "name": "Freezing Foil",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Freezing_Foil",
+      "runes": [
+        "I",
+        "P",
+        "S"
+      ],
+      "tags": [
+        "Daily Trial",
+        "Tower",
+        "Rapier",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Sinister_Sword.png",
+      "name": "Sinister Sword",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Sinister_Sword",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Tower",
+        "Seasonal Event",
+        "Sword",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Frost_Slayer.png",
+      "name": "Frost Slayer",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Frost_Slayer",
+      "runes": [
+        "I",
+        "T"
+      ],
+      "tags": [
+        "Tower",
+        "Seasonal Event",
+        "Claymore",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Sparkler.png",
+      "name": "Sparkler",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Sparkler",
+      "runes": [
+        "C",
+        "I"
+      ],
+      "tags": [
+        "Tower",
+        "Seasonal Event",
+        "Cutlass",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Skull_Scythe.png",
+      "name": "Skull Scythe",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Skull_Scythe",
+      "runes": [
+        "O",
+        "S"
+      ],
+      "tags": [
+        "Tower",
+        "Seasonal Event",
+        "Soul Scythe",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Cackling_Broom.png",
+      "name": "Cackling Broom",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Cackling_Broom",
+      "runes": [
+        "I",
+        "S"
+      ],
+      "tags": [
+        "Tower",
+        "Seasonal Event",
+        "Glaive",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Bonehead_Hammer.png",
+      "name": "Bonehead Hammer",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Bonehead_Hammer",
+      "runes": [
+        "T",
+        "A"
+      ],
+      "tags": [
+        "Tower",
+        "Seasonal Event",
+        "Great Hammer",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Spine-Chill_Spear.png",
+      "name": "Spine-Chill Spear",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Spine-Chill_Spear",
+      "runes": [
+        "S"
+      ],
+      "tags": [
+        "Tower",
+        "Seasonal Event",
+        "Spear",
+        "Unique"
+      ]
+    }
+  ],
+  "RangedWeapons": [
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Bow.png",
+      "name": "Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Bow",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Bonebow.png",
+      "name": "Bonebow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Bonebow",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Twin_Bow.png",
+      "name": "Twin Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Twin_Bow",
+      "runes": [
+        "R",
+        "S"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Bubble_Bow.png",
+      "name": "Bubble Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Bubble_Bow",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Bubble Bow",
+        "Hidden Depths",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Bubble_Burster.png",
+      "name": "Bubble Burster",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Bubble_Burster",
+      "runes": [
+        "R",
+        "S"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Bubble Bow",
+        "Unique",
+        "Hidden Depths",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Hunting_Bow.png",
+      "name": "Hunting Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Hunting_Bow",
+      "runes": [
+        "U"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Hunting Bow"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Ancient_Bow.png",
+      "name": "Ancient Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Ancient_Bow",
+      "runes": [
+        "U",
+        "C"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Hunting Bow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Hunter%27s_Promise.png",
+      "name": "Hunter's Promise",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Hunter%27s_Promise",
+      "runes": [
+        "R",
+        "U"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Hunting Bow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Master%27s_Bow.png",
+      "name": "Master's Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Master%27s_Bow",
+      "runes": [
+        "R",
+        "U"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Hunting Bow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Longbow.png",
+      "name": "Longbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Longbow",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Longbow"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Guardian_Bow.png",
+      "name": "Guardian Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Guardian_Bow",
+      "runes": [
+        "R",
+        "S"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Longbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Red_Snake.png",
+      "name": "Red Snake",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Red_Snake",
+      "runes": [
+        "R",
+        "A"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Longbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Power_Bow.png",
+      "name": "Power Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Power_Bow",
+      "runes": [
+        "R",
+        "I"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Power Bow"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Elite_Power_Bow.png",
+      "name": "Elite Power Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Elite_Power_Bow",
+      "runes": [
+        "R",
+        "I"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Power Bow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Sabrewing.png",
+      "name": "Sabrewing",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Sabrewing",
+      "runes": [
+        "R",
+        "I",
+        "S"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Power Bow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Shortbow.png",
+      "name": "Shortbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Shortbow",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Shortbow"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Love_Spell_Bow.png",
+      "name": "Love Spell Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Love_Spell_Bow",
+      "runes": [
+        "R",
+        "S"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Shortbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Mechanical_Shortbow.png",
+      "name": "Mechanical Shortbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Mechanical_Shortbow",
+      "runes": [
+        "R",
+        "C"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Shortbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Purple_Storm.png",
+      "name": "Purple Storm",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Purple_Storm",
+      "runes": [
+        "R",
+        "C"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Shortbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Snow_Bow.png",
+      "name": "Snow Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Snow_Bow",
+      "runes": [
+        "S"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Snow Bow",
+        "Creeping Winter",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Winter%27s_Touch.png",
+      "name": "Winter's Touch",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Winter%27s_Touch",
+      "runes": [
+        "R",
+        "S"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Snow Bow",
+        "Unique",
+        "Creeping Winter",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Trickbow.png",
+      "name": "Trickbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Trickbow",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Trickbow"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_The_Green_Menace.png",
+      "name": "The Green Menace",
+      "wiki": "https://minecraft.wiki/w/Dungeons:The_Green_Menace",
+      "runes": [
+        "R",
+        "A"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Trickbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_The_Pink_Scoundrel.png",
+      "name": "The Pink Scoundrel",
+      "wiki": "https://minecraft.wiki/w/Dungeons:The_Pink_Scoundrel",
+      "runes": [
+        "R",
+        "I"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Trickbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Twisting_Vine_Bow.png",
+      "name": "Twisting Vine Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Twisting_Vine_Bow",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Vine Bow",
+        "Flames of the Nether",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Weeping_Vine_Bow.png",
+      "name": "Weeping Vine Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Weeping_Vine_Bow",
+      "runes": [
+        "R",
+        "C"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Vine Bow",
+        "Unique",
+        "Flames of the Nether",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Void_Bow.png",
+      "name": "Void Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Void_Bow",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Void Bow",
+        "Echoing Void",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Call_of_the_Void.png",
+      "name": "Call of the Void",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Call_of_the_Void",
+      "runes": [
+        "R",
+        "A"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Void Bow",
+        "Unique",
+        "Echoing Void",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Wind_Bow.png",
+      "name": "Wind Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Wind_Bow",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Wind Bow",
+        "Howling Peaks",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Burst_Gale_Bow.png",
+      "name": "Burst Gale Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Burst_Gale_Bow",
+      "runes": [
+        "C",
+        "I"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Wind Bow",
+        "Unique",
+        "Howling Peaks",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Echo_of_the_Valley.png",
+      "name": "Echo of the Valley",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Echo_of_the_Valley",
+      "runes": [
+        "R",
+        "I"
+      ],
+      "tags": [
+        "Bow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Wind Bow",
+        "Unique",
+        "Howling Peaks",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Soul_Bow.png",
+      "name": "Soul Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Soul_Bow",
+      "runes": [
+        "O"
+      ],
+      "tags": [
+        "Bow",
+        "Adventure",
+        "Apocalypse",
+        "Soul Bow"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Bow_of_Lost_Souls.png",
+      "name": "Bow of Lost Souls",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Bow_of_Lost_Souls",
+      "runes": [
+        "O",
+        "R"
+      ],
+      "tags": [
+        "Bow",
+        "Adventure",
+        "Apocalypse",
+        "Soul Bow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Nocturnal_Bow.png",
+      "name": "Nocturnal Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Nocturnal_Bow",
+      "runes": [
+        "O",
+        "C"
+      ],
+      "tags": [
+        "Bow",
+        "Adventure",
+        "Apocalypse",
+        "Soul Bow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Haunted_Bow.png",
+      "name": "Haunted Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Haunted_Bow",
+      "runes": [
+        "R",
+        "S"
+      ],
+      "tags": [
+        "Bow",
+        "Tower",
+        "Seasonal Event",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Shivering_Bow.png",
+      "name": "Shivering Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Shivering_Bow",
+      "runes": [
+        "O",
+        "C"
+      ],
+      "tags": [
+        "Bow",
+        "Tower",
+        "Seasonal Event",
+        "Soul Bow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Sugar_Rush.png",
+      "name": "Sugar Rush",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Sugar_Rush",
+      "runes": [
+        "R",
+        "I"
+      ],
+      "tags": [
+        "Bow",
+        "Tower",
+        "Seasonal Event",
+        "Trickbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Phantom_Bow.png",
+      "name": "Phantom Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Phantom_Bow",
+      "runes": [
+        "R",
+        "I",
+        "S"
+      ],
+      "tags": [
+        "Bow",
+        "Tower",
+        "Seasonal Event",
+        "Power Bow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Webbed_Bow.png",
+      "name": "Webbed Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Webbed_Bow",
+      "runes": [
+        "R",
+        "S"
+      ],
+      "tags": [
+        "Bow",
+        "Tower",
+        "Seasonal Event",
+        "Snow Bow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Gloopy_Bow.png",
+      "name": "Gloopy Bow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Gloopy_Bow",
+      "runes": [
+        "R",
+        "S"
+      ],
+      "tags": [
+        "Bow",
+        "Tower",
+        "Seasonal Event",
+        "Bubble Bow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Cog_Crossbow.png",
+      "name": "Cog Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Cog_Crossbow",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Cog Crossbow",
+        "Flames of the Nether",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Pride_of_the_Piglins.png",
+      "name": "Pride of the Piglins",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Pride_of_the_Piglins",
+      "runes": [
+        "R",
+        "I"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Cog Crossbow",
+        "Unique",
+        "Flames of the Nether",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Crossbow.png",
+      "name": "Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Crossbow",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Azure_Seeker.png",
+      "name": "Azure Seeker",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Azure_Seeker",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_The_Slicer.png",
+      "name": "The Slicer",
+      "wiki": "https://minecraft.wiki/w/Dungeons:The_Slicer",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Dual_Crossbows.png",
+      "name": "Dual Crossbows",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Dual_Crossbows",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Dual Crossbows"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Baby_Crossbows.png",
+      "name": "Baby Crossbows",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Baby_Crossbows",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Dual Crossbows",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Spellbound_Crossbows.png",
+      "name": "Spellbound Crossbows",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Spellbound_Crossbows",
+      "runes": [
+        "R",
+        "A"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Dual Crossbows",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Exploding_Crossbow.png",
+      "name": "Exploding Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Exploding_Crossbow",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Exploding Crossbow"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Firebolt_Thrower.png",
+      "name": "Firebolt Thrower",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Firebolt_Thrower",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Exploding Crossbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Imploding_Crossbow.png",
+      "name": "Imploding Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Imploding_Crossbow",
+      "runes": [
+        "I",
+        "A"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Exploding Crossbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Harpoon_Crossbow.png",
+      "name": "Harpoon Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Harpoon_Crossbow",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Harpoon Crossbow",
+        "Hidden Depths",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Nautical_Crossbow.png",
+      "name": "Nautical Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Nautical_Crossbow",
+      "runes": [
+        "R",
+        "S"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Harpoon Crossbow",
+        "Unique",
+        "Hidden Depths",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Heavy_Crossbow.png",
+      "name": "Heavy Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Heavy_Crossbow",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Heavy Crossbow"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Doom_Crossbow.png",
+      "name": "Doom Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Doom_Crossbow",
+      "runes": [
+        "I"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Heavy Crossbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Slayer_Crossbow.png",
+      "name": "Slayer Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Slayer_Crossbow",
+      "runes": [
+        "R",
+        "I"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Heavy Crossbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Rapid_Crossbow.png",
+      "name": "Rapid Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Rapid_Crossbow",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Rapid Crossbow"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Auto_Crossbow.png",
+      "name": "Auto Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Auto_Crossbow",
+      "runes": [
+        "R",
+        "C"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Rapid Crossbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Butterfly_Crossbow.png",
+      "name": "Butterfly Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Butterfly_Crossbow",
+      "runes": [
+        "R",
+        "S"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Rapid Crossbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Scatter_Crossbow.png",
+      "name": "Scatter Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Scatter_Crossbow",
+      "runes": [
+        "T"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Scatter Crossbow"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Harp_Crossbow.png",
+      "name": "Harp Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Harp_Crossbow",
+      "runes": [
+        "I",
+        "T"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Scatter Crossbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Lightning_Harp_Crossbow.png",
+      "name": "Lightning Harp Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Lightning_Harp_Crossbow",
+      "runes": [
+        "I",
+        "T"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Scatter Crossbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Shadow_Crossbow.png",
+      "name": "Shadow Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Shadow_Crossbow",
+      "runes": [
+        "R"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Shadow Crossbow",
+        "Echoing Void",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Veiled_Crossbow.png",
+      "name": "Veiled Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Veiled_Crossbow",
+      "runes": [
+        "R",
+        "C"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Shadow Crossbow",
+        "Unique",
+        "Echoing Void",
+        "Downloadable content"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Soul_Crossbow.png",
+      "name": "Soul Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Soul_Crossbow",
+      "runes": [
+        "O"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Soul Crossbow"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Feral_Soul_Crossbow.png",
+      "name": "Feral Soul Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Feral_Soul_Crossbow",
+      "runes": [
+        "O"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Soul Crossbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/Voidcaller_(MCD).png",
+      "name": "Voidcaller",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Voidcaller",
+      "runes": [
+        "O",
+        "A"
+      ],
+      "tags": [
+        "Crossbow",
+        "Default",
+        "Adventure",
+        "Apocalypse",
+        "Soul Crossbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Burst_Crossbow.png",
+      "name": "Burst Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Burst_Crossbow",
+      "runes": [
+        "R",
+        "P"
+      ],
+      "tags": [
+        "Crossbow",
+        "Daily Trial",
+        "Tower",
+        "Burst Crossbow"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Corrupted_Crossbow.png",
+      "name": "Corrupted Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Corrupted_Crossbow",
+      "runes": [
+        "R",
+        "P",
+        "C"
+      ],
+      "tags": [
+        "Crossbow",
+        "Daily Trial",
+        "Tower",
+        "Burst Crossbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Soul_Hunter_Crossbow.png",
+      "name": "Soul Hunter Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Soul_Hunter_Crossbow",
+      "runes": [
+        "R",
+        "P",
+        "O"
+      ],
+      "tags": [
+        "Crossbow",
+        "Daily Trial",
+        "Tower",
+        "Burst Crossbow",
+        "Unique"
+      ]
+    },
+    {
+      "icon": "https://minecraft.wiki/images/MCD_Shrieking_Crossbow.png",
+      "name": "Shrieking Crossbow",
+      "wiki": "https://minecraft.wiki/w/Dungeons:Shrieking_Crossbow",
+      "runes": [
+        "R",
+        "S"
+      ],
+      "tags": [
+        "Crossbow",
+        "Tower",
+        "Seasonal Event",
+        "Shadow Crossbow",
+        "Unique"
+      ]
+    }
+  ]
+}

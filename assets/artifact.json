@@ -1,0 +1,533 @@
+[
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Corrupted_Beacon.png",
+    "name": "Corrupted Beacon",
+    "wiki": "https://minecraft.wiki/w/Corrupted_Beacon",
+    "runes": [
+      "O"
+    ],
+    "tags": [
+      "Damaging artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Updraft_Tome.png",
+    "name": "Updraft Tome",
+    "wiki": "https://minecraft.wiki/w/Updraft_Tome",
+    "runes": [
+      "A"
+    ],
+    "tags": [
+      "Damaging artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Harvester.png",
+    "name": "Harvester",
+    "wiki": "https://minecraft.wiki/w/Harvester",
+    "runes": [
+      "O"
+    ],
+    "tags": [
+      "Damaging artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Lightning_Rod.png",
+    "name": "Lightning Rod",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Lightning_Rod",
+    "runes": [
+      "O"
+    ],
+    "tags": [
+      "Damaging artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Scatter_Mines.png",
+    "name": "Scatter Mines",
+    "wiki": "https://minecraft.wiki/w/Scatter_Mines",
+    "runes": [
+      "I"
+    ],
+    "tags": [
+      "Damaging artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Blast_Fungus.png",
+    "name": "Blast Fungus",
+    "wiki": "https://minecraft.wiki/w/Blast_Fungus",
+    "runes": [
+      "I"
+    ],
+    "tags": [
+      "Damaging artifact",
+      "Flames of the Nether",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Spinblade.png",
+    "name": "Spinblade",
+    "wiki": "https://minecraft.wiki/w/Spinblade",
+    "runes": [
+      "I"
+    ],
+    "tags": [
+      "Damaging artifact",
+      "Flames of the Nether",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Eye_of_the_Guardian.png",
+    "name": "Eye of the Guardian",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Eye_of_the_Guardian",
+    "runes": [
+      "A"
+    ],
+    "tags": [
+      "Damaging artifact",
+      "Hidden Depths",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Corrupted_Pumpkin.png",
+    "name": "Corrupted Pumpkin",
+    "wiki": "https://minecraft.wiki/w/Corrupted_Pumpkin",
+    "runes": [
+      "O"
+    ],
+    "tags": [
+      "Damaging artifact",
+      "Seasonal Event",
+      "Unique"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Corrupted_Seeds.png",
+    "name": "Corrupted Seeds",
+    "wiki": "https://minecraft.wiki/w/Corrupted_Seeds",
+    "runes": [
+      "A"
+    ],
+    "tags": [
+      "Status-inflicting artifacts"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Fishing_Rod.png",
+    "name": "Fishing Rod",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Fishing_Rod",
+    "runes": [
+      "I"
+    ],
+    "tags": [
+      "Status-inflicting artifacts"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Gong_of_Weakening.png",
+    "name": "Gong of Weakening",
+    "wiki": "https://minecraft.wiki/w/Gong_of_Weakening",
+    "runes": [
+      "S"
+    ],
+    "tags": [
+      "Status-inflicting artifacts"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Ice_Wand.png",
+    "name": "Ice Wand",
+    "wiki": "https://minecraft.wiki/w/Ice_Wand",
+    "runes": [
+      "A"
+    ],
+    "tags": [
+      "Status-inflicting artifacts",
+      "Creeping Winter",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Love_Medallion.png",
+    "name": "Love Medallion",
+    "wiki": "https://minecraft.wiki/w/Love_Medallion",
+    "runes": [
+      "A"
+    ],
+    "tags": [
+      "Status-inflicting artifacts"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Satchel_of_Elements.png",
+    "name": "Satchel of Elements",
+    "wiki": "https://minecraft.wiki/w/Satchel_of_Elements",
+    "runes": [
+      "A"
+    ],
+    "tags": [
+      "Status-inflicting artifacts"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Shock_Powder.png",
+    "name": "Shock Powder",
+    "wiki": "https://minecraft.wiki/w/Shock_Powder",
+    "runes": [
+      "S",
+      "T"
+    ],
+    "tags": [
+      "Status-inflicting artifacts"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Fireworks_Arrow.png",
+    "name": "Fireworks Arrow",
+    "wiki": "https://minecraft.wiki/w/Fireworks_Arrow",
+    "runes": [
+      "R"
+    ],
+    "tags": [
+      "Quiver artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Flaming_Quiver.png",
+    "name": "Flaming Quiver",
+    "wiki": "https://minecraft.wiki/w/Flaming_Quiver",
+    "runes": [
+      "R"
+    ],
+    "tags": [
+      "Quiver artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Torment_Quiver.png",
+    "name": "Torment Quiver",
+    "wiki": "https://minecraft.wiki/w/Torment_Quiver",
+    "runes": [
+      "R",
+      "O"
+    ],
+    "tags": [
+      "Quiver artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Thundering_Quiver.png",
+    "name": "Thundering Quiver",
+    "wiki": "https://minecraft.wiki/w/Thundering_Quiver",
+    "runes": [
+      "R"
+    ],
+    "tags": [
+      "Quiver artifact",
+      "Flames of the Nether",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Harpoon_Quiver.png",
+    "name": "Harpoon Quiver",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Harpoon_Quiver",
+    "runes": [
+      "R"
+    ],
+    "tags": [
+      "Quiver artifact",
+      "Hidden Depths",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_T_VoidQuiver_Icon.png",
+    "name": "Void Quiver",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Void_Quiver",
+    "runes": [
+      "R"
+    ],
+    "tags": [
+      "Quiver artifact",
+      "Echoing Void",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Buzzy_Nest.png",
+    "name": "Buzzy Nest",
+    "wiki": "https://minecraft.wiki/w/Buzzy_Nest",
+    "runes": [
+      "U"
+    ],
+    "tags": [
+      "Summoning artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Enchanted_Grass.png",
+    "name": "Enchanted Grass",
+    "wiki": "https://minecraft.wiki/w/Enchanted_Grass",
+    "runes": [
+      "U",
+      "A"
+    ],
+    "tags": [
+      "Summoning artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Golem_Kit.png",
+    "name": "Golem Kit",
+    "wiki": "https://minecraft.wiki/w/Golem_Kit",
+    "runes": [
+      "U"
+    ],
+    "tags": [
+      "Summoning artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Soul_Lantern.png",
+    "name": "Soul Lantern",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Soul_Lantern",
+    "runes": [
+      "O",
+      "U"
+    ],
+    "tags": [
+      "Summoning artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Tasty_Bone.png",
+    "name": "Tasty Bone",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Tasty_Bone",
+    "runes": [
+      "U"
+    ],
+    "tags": [
+      "Summoning artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Vexing_Chant.png",
+    "name": "Vexing Chant",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Vexing_Chant",
+    "runes": [
+      "U"
+    ],
+    "tags": [
+      "Summoning artifact",
+      "Echoing Void",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Wonderful_Wheat.png",
+    "name": "Wonderful Wheat",
+    "wiki": "https://minecraft.wiki/w/Wonderful_Wheat",
+    "runes": [
+      "U"
+    ],
+    "tags": [
+      "Summoning artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Boots_of_Swiftness.png",
+    "name": "Boots of Swiftness",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Boots_of_Swiftness",
+    "runes": [
+      "C"
+    ],
+    "tags": [
+      "Agility artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Death_Cap_Mushroom.png",
+    "name": "Death Cap Mushroom",
+    "wiki": "https://minecraft.wiki/w/Death_Cap_Mushroom",
+    "runes": [
+      "I"
+    ],
+    "tags": [
+      "Agility artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Ghost_Cloak.png",
+    "name": "Ghost Cloak",
+    "wiki": "https://minecraft.wiki/w/Ghost_Cloak",
+    "runes": [
+      "C",
+      "T"
+    ],
+    "tags": [
+      "Agility artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Light_Feather.png",
+    "name": "Light Feather",
+    "wiki": "https://minecraft.wiki/w/Light_Feather",
+    "runes": [
+      "C"
+    ],
+    "tags": [
+      "Agility artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Enchanter%27s_Tome.png",
+    "name": "Enchanter's Tome",
+    "wiki": "https://minecraft.wiki/w/Enchanter%27s_Tome",
+    "runes": [
+      "A"
+    ],
+    "tags": [
+      "Defensive, healing, and cooperative artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Iron_Hide_Amulet.png",
+    "name": "Iron Hide Amulet",
+    "wiki": "https://minecraft.wiki/w/Iron_Hide_Amulet",
+    "runes": [
+      "T"
+    ],
+    "tags": [
+      "Defensive, healing, and cooperative artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Shadow_Shifter.png",
+    "name": "Shadow Shifter",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Shadow_Shifter",
+    "runes": [
+      "O"
+    ],
+    "tags": [
+      "Defensive, healing, and cooperative artifact",
+      "Echoing Void",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Soul_Healer.png",
+    "name": "Soul Healer",
+    "wiki": "https://minecraft.wiki/w/Soul_Healer",
+    "runes": [
+      "O",
+      "S"
+    ],
+    "tags": [
+      "Defensive, healing, and cooperative artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Tome_of_Duplication.png",
+    "name": "Tome of Duplication",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Tome_of_Duplication",
+    "runes": [
+      "S"
+    ],
+    "tags": [
+      "Defensive, healing, and cooperative artifact",
+      "Echoing Void",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Totem_of_Casting.png",
+    "name": "Totem of Casting",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Totem_of_Casting",
+    "runes": [
+      "O"
+    ],
+    "tags": [
+      "Defensive, healing, and cooperative artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Totem_of_Regeneration.png",
+    "name": "Totem of Regeneration",
+    "wiki": "https://minecraft.wiki/w/Totem_of_Regeneration",
+    "runes": [
+      "S"
+    ],
+    "tags": [
+      "Defensive, healing, and cooperative artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Totem_of_Shielding.png",
+    "name": "Totem of Shielding",
+    "wiki": "https://minecraft.wiki/w/Totem_of_Shielding",
+    "runes": [
+      "S",
+      "T"
+    ],
+    "tags": [
+      "Defensive, healing, and cooperative artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Satchel_of_Elixirs.png",
+    "name": "Satchel of Elixirs",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Satchel_of_Elixirs",
+    "runes": [
+      "S"
+    ],
+    "tags": [
+      "Defensive, healing, and cooperative artifact",
+      "Hidden Depths",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Satchel_of_Snacks.png",
+    "name": "Satchel of Snacks",
+    "wiki": "https://minecraft.wiki/w/Dungeons:Satchel_of_Snacks",
+    "runes": [
+      "S"
+    ],
+    "tags": [
+      "Defensive, healing, and cooperative artifact",
+      "Hidden Depths",
+      "Downloadable content"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Wind_Horn.png",
+    "name": "Wind Horn",
+    "wiki": "https://minecraft.wiki/w/Wind_Horn",
+    "runes": [
+      "U",
+      "S"
+    ],
+    "tags": [
+      "Defensive, healing, and cooperative artifact"
+    ]
+  },
+  {
+    "icon": "https://minecraft.wiki/images/MCD_Powershaker.png",
+    "name": "Powershaker",
+    "wiki": "https://minecraft.wiki/w/Powershaker",
+    "runes": [
+      "I"
+    ],
+    "tags": [
+      "Defensive, healing, and cooperative artifact",
+      "Flames of the Nether",
+      "Downloadable content"
+    ]
+  }
+]

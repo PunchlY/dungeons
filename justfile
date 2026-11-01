@@ -1,0 +1,2 @@
+dev:
+    bun src/**/*.html
