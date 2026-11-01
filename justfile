@@ -5,4 +5,4 @@ build: dependencies
     bun build --target=browser src/index.html --outdir=dist
 
 dependencies:
-    bun install --frozen-lockfile
+    bun install --frozen-lockfile --omit=peer
