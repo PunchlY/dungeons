@@ -103,20 +103,15 @@ export function build() {
 
   const runes = new Runes();
   const selected: Runes[] = [];
-  function* dfs(depth: number): Generator<{
-    meleeWeapons: string;
-    rangedWeapons: string;
-    armor: string;
-    artifact: string;
-  }> {
+  function* dfs(depth: number): Generator<[string, string, string, string]> {
     if (depth === offeringGroup.length) {
       if (!runes.hasAncient()) return;
-      yield {
-        meleeWeapons: selected[0]!.toString(),
-        rangedWeapons: selected[1]!.toString(),
-        armor: selected[2]!.toString(),
-        artifact: selected[3]!.toString(),
-      };
+      yield selected.map((runes) => runes.toString()) as [
+        string,
+        string,
+        string,
+        string,
+      ];
       return;
     }
 

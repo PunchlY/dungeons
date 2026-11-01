@@ -189,8 +189,12 @@ export function Build() {
         )
         .map((offerings) =>
           Map.groupBy(offerings, ({ runes }) => Runes.from(runes).toString())
-            .set("", [])
-        ),
+            .entries()
+            .map(([runes, data]) =>
+              [runes, data.map(({ name }) => name)] as const
+            )
+        )
+        .map((value) => new Map(value).set("", [])),
     [items],
   );
 
@@ -198,21 +202,20 @@ export function Build() {
     () => {
       const required = Runes.ancients(requiredAncients);
       return data
+        .values()
         .map((row) => ({
-          ...row,
-          runes: Runes.from([
-            row.meleeWeapons,
-            row.rangedWeapons,
-            row.armor,
-            row.artifact,
-          ]),
+          meleeWeapons: row[0],
+          rangedWeapons: row[1],
+          armor: row[2],
+          artifact: row[3],
+          runes: Runes.from(row),
         }))
-        .filter((row) => row.runes.isSupersetOf(required))
+        .filter(({ runes }) => runes.isSupersetOf(required))
         .map(({ runes, ...row }) => ({
           ...row,
           ancients: runes.getAncients(),
         }))
-        .sort((a, b) => b.ancients.length - a.ancients.length);
+        .toArray();
     },
     [data, requiredAncients],
   );
@@ -220,6 +223,7 @@ export function Build() {
   const filterItem = useMemo(
     () =>
       filterRequired
+        .values()
         .filter((row) =>
           offerings[0]!.has(row.meleeWeapons) &&
           offerings[1]!.has(row.rangedWeapons) &&
@@ -228,20 +232,24 @@ export function Build() {
         )
         .map((row) => ({
           meleeWeapons: offerings[0]!
-            .get(row.meleeWeapons)!
-            .map(({ name }) => name),
+            .get(row.meleeWeapons)!,
           rangedWeapons: offerings[1]!
-            .get(row.rangedWeapons)!
-            .map(({ name }) => name),
+            .get(row.rangedWeapons)!,
           armor: offerings[2]!
-            .get(row.armor)!
-            .map(({ name }) => name),
+            .get(row.armor)!,
           artifact: offerings[3]!
-            .get(row.artifact)!
-            .map(({ name }) => name),
+            .get(row.artifact)!,
           ancients: row.ancients,
-        })),
+        }))
+        .toArray(),
     [filterRequired, offerings],
+  );
+
+  const sortDate = useMemo(
+    () =>
+      filterItem
+        .sort((a, b) => b.ancients.length - a.ancients.length),
+    [filterItem],
   );
 
   const toggleItem = useCallback((name: string) => {
@@ -321,7 +329,7 @@ export function Build() {
       </div>
       <div className="@container flex-1">
         <Virtuoso
-          data={filterItem}
+          data={sortDate}
           itemContent={(index, data) => {
             return (
               <div className="h-[20cqw] grid grid-cols-5">
