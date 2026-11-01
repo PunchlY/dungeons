@@ -1,8 +1,6 @@
 dev:
     bun src/**/*.html
 
-build: dependencies
-    bun build --target=browser src/index.html --outdir=dist
-
-dependencies:
+build:
     bun install --frozen-lockfile --omit=peer
+    bun scripts/build.ts
